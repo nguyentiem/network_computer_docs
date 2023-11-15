@@ -1,0 +1,28 @@
+﻿  client.cpp
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(37,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(42,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(50,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(59,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(71,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(78,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : see declaration of 'localtime'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(79,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(82,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(83,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(84,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(85,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(97,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : see declaration of 'inet_ntoa'
+C:\Users\tiem.nv164039\source\repos\tcp socket client\tcp socket client\client.cpp(105,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+  tcp socket client.vcxproj -> C:\Users\tiem.nv164039\source\repos\tcp socket client\Debug\tcp socket client.exe

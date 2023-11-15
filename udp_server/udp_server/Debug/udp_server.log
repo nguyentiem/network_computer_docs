@@ -1,0 +1,13 @@
+﻿  server.cpp
+C:\Users\tiem.nv164039\source\repos\udp_server\udp_server\server.cpp(17,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+C:\Users\tiem.nv164039\source\repos\udp_server\udp_server\server.cpp(24,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : see declaration of 'inet_addr'
+C:\Users\tiem.nv164039\source\repos\udp_server\udp_server\server.cpp(37,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+C:\Users\tiem.nv164039\source\repos\udp_server\udp_server\server.cpp(41,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : see declaration of 'inet_ntoa'
+C:\Users\tiem.nv164039\source\repos\udp_server\udp_server\server.cpp(47,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+  LINK : C:\Users\tiem.nv164039\source\repos\udp_server\Debug\udp_server.exe not found or not built by the last incremental link; performing full link
+  udp_server.vcxproj -> C:\Users\tiem.nv164039\source\repos\udp_server\Debug\udp_server.exe
